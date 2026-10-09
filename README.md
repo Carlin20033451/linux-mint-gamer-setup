@@ -242,12 +242,15 @@ linux-mint-gamer-setup/
 │
 
 └── docs/
+
     ├── roadmap.md
+    
     └── changelog.md
 
 -------------------------------------------------------------------------------
 
 🤝 Contribuindo
+
 Pull Requests são bem-vindos.
 
 Caso encontre problemas:
@@ -259,6 +262,7 @@ Informe sua versão do Linux Mint
 Informe a saída do terminal
 
 ⚠️ Aviso
+
 Este projeto modifica o sistema operacional e remove softwares opcionais.
 
 Antes de utilizar, recomenda-se criar um snapshot utilizando o Timeshift.
@@ -266,9 +270,11 @@ Antes de utilizar, recomenda-se criar um snapshot utilizando o Timeshift.
 -------------------------------------------------------------------------------
 
 📜 Licença
+
 Distribuído sob licença MIT.
 
 ⭐ Apoie o Projeto
+
 Se este projeto economizou seu tempo após uma instalação limpa do Linux Mint:
 
 ⭐ Deixe uma estrela no repositório.

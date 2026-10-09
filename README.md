@@ -5,6 +5,7 @@ English 🇬🇧- Linux Mint post-install automation focused on gaming, emulatio
 
 -------------------------------------------------------------------------------
 🎮 Linux Mint Gamer Setup
+-
 Automatize • Jogue • Explore
 Automação completa de pós-instalação para Linux Mint 22+ focada em:
 
@@ -13,7 +14,11 @@ Emulação
 Streaming
 Multimídia
 Uso diário
+
+-------------------------------------------------------------------------------
+
 🚀 Recursos
+-
 🧹 Limpeza Opcional
 Detecta e permite remover:
 
@@ -31,7 +36,10 @@ HexChat
 Matrix
 Nenhum software é removido sem confirmação.
 
+-------------------------------------------------------------------------------
+
 🎮 Gaming
+-
 Instala:
 
 Steam
@@ -41,17 +49,29 @@ Também realiza:
 Verificação Vulkan
 Instalação de codecs multimídia
 Configuração automática de TRIM para SSD
+
+-------------------------------------------------------------------------------
+
 🌐 Navegação
+-
 Instala:
 
 Brave Browser
+
+-------------------------------------------------------------------------------
+
 📦 Flatpak
+-
 Detecta e instala o Flatpak caso não esteja presente.
 
 Configura automaticamente:
 
 Flathub
+
+-------------------------------------------------------------------------------
+
 🚀 Aplicativos Flatpak
+-
 Instala automaticamente:
 
 Discord
@@ -67,28 +87,39 @@ PCSX2
 RPCS3
 O script utiliza busca automática no Flathub para reduzir problemas causados por mudanças de IDs dos aplicativos.
 
+-------------------------------------------------------------------------------
+
 ✅ Compatibilidade
+-
 Sistema	Suporte
 Linux Mint 22.x Cinnamon	✅
 Linux Mint 22.x MATE	✅
 Linux Mint 22.x XFCE	✅
-📦 Aplicativos Instalados
-Aplicativo	Origem
-Steam	APT
-GameMode	APT
-Brave Browser	APT
-Discord	Flatpak
-Spotify	Flatpak
-OBS Studio	Flatpak
-ProtonUp-Qt	Flatpak
-Heroic Launcher	Flatpak
-Prism Launcher	Flatpak
-ZapZap	Flatpak
-Sober	Flatpak
-PPSSPP	Flatpak
-PCSX2	Flatpak
-RPCS3	Flatpak
+
+-------------------------------------------------------------------------------
+
+📦 Aplicativos     Instalados
+-
+Aplicativo	       Origem
+Steam	           APT
+GameMode	       APT
+Brave Browser	   APT
+Discord	           Flatpak
+Spotify	           Flatpak
+OBS Studio	       Flatpak
+ProtonUp-Qt	       Flatpak
+Heroic Launcher	   Flatpak
+Prism Launcher	   Flatpak
+ZapZap	           Flatpak
+Sober	           Flatpak
+PPSSPP	           Flatpak
+PCSX2	           Flatpak
+RPCS3	           Flatpak
+
+-------------------------------------------------------------------------------
+
 🔍 Diferenciais
+-
 ✅ Busca automática de aplicativos Flatpak
 
 ✅ Ignora pacotes já instalados
@@ -103,7 +134,10 @@ RPCS3	Flatpak
 
 ✅ Fácil de modificar
 
+-------------------------------------------------------------------------------
+
 ⚡ Instalação
+-
 Clone o repositório:
 
 git clone https://github.com/Carlin20033451/linux-mint-gamer-setup.git
@@ -116,7 +150,11 @@ chmod +x mint-gamer-setup.sh
 Execute:
 
 ./mint-gamer-setup.sh
+
+-------------------------------------------------------------------------------
+
 📸 Screenshots
+-
 Banner
 screenshots/banner.png
 
@@ -126,7 +164,10 @@ screenshots/install.png
 Aplicativos
 screenshots/apps.png
 
+-------------------------------------------------------------------------------
+
 📂 Estrutura
+-
 linux-mint-gamer-setup/
 │
 ├── mint-gamer-setup.sh
@@ -138,21 +179,9 @@ linux-mint-gamer-setup/
 └── docs/
     ├── roadmap.md
     └── changelog.md
-🛣️ Roadmap
-v1.1
-Bottles
-Lutris
-VLC
-Logs de instalação
-v1.2
-Interface gráfica (Zenity)
-Seleção de apps
-Modo silencioso
-v2.0
-Perfil Gamer
-Perfil Streamer
-Perfil Emulação
-Backup de configurações
+
+-------------------------------------------------------------------------------
+
 🤝 Contribuindo
 Pull Requests são bem-vindos.
 
@@ -165,6 +194,8 @@ Informe a saída do terminal
 Este projeto modifica o sistema operacional e remove softwares opcionais.
 
 Antes de utilizar, recomenda-se criar um snapshot utilizando o Timeshift.
+
+-------------------------------------------------------------------------------
 
 📜 Licença
 Distribuído sob licença MIT.

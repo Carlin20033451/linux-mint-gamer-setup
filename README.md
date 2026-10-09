@@ -139,33 +139,33 @@ Linux Mint 22.x XFCE	✅
 -
 Aplicativo	       Origem
 
-Steam	           APT
+Steam	        -   APT
 
-GameMode	       APT
+GameMode	    -   APT
 
-Brave Browser	   APT
+Brave Browser	-   APT
 
-Discord	           Flatpak
+Discord	       -    Flatpak
 
-Spotify	           Flatpak
+Spotify	        -   Flatpak
 
-OBS Studio	       Flatpak
+OBS Studio	     -  Flatpak
 
-ProtonUp-Qt	       Flatpak
+ProtonUp-Qt	    -   Flatpak
 
-Heroic Launcher	   Flatpak
+Heroic Launcher	-   Flatpak
 
-Prism Launcher	   Flatpak
+Prism Launcher	 -  Flatpak
 
-ZapZap	           Flatpak
+ZapZap	         -  Flatpak
 
-Sober	           Flatpak
+Sober	         -  Flatpak
 
-PPSSPP	           Flatpak
+PPSSPP	         -  Flatpak
 
-PCSX2	           Flatpak
+PCSX2	         -  Flatpak
 
-RPCS3	           Flatpak
+RPCS3	         -  Flatpak
 
 -------------------------------------------------------------------------------
 
@@ -226,13 +226,21 @@ screenshots/apps.png
 📂 Estrutura
 -
 linux-mint-gamer-setup/
+
 │
+
 ├── mint-gamer-setup.sh
+
 ├── README.md
+
 ├── LICENSE
+
 │
+
 ├── screenshots/
+
 │
+
 └── docs/
     ├── roadmap.md
     └── changelog.md
@@ -245,8 +253,11 @@ Pull Requests são bem-vindos.
 Caso encontre problemas:
 
 Abra uma Issue
+
 Informe sua versão do Linux Mint
+
 Informe a saída do terminal
+
 ⚠️ Aviso
 Este projeto modifica o sistema operacional e remove softwares opcionais.
 

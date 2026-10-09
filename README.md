@@ -7,12 +7,17 @@ English 🇬🇧- Linux Mint post-install automation focused on gaming, emulatio
 🎮 Linux Mint Gamer Setup
 -
 Automatize • Jogue • Explore
+
 Automação completa de pós-instalação para Linux Mint 22+ focada em:
 
 Jogos
+
 Emulação
+
 Streaming
+
 Multimídia
+
 Uso diário
 
 -------------------------------------------------------------------------------
@@ -20,20 +25,33 @@ Uso diário
 🚀 Recursos
 -
 🧹 Limpeza Opcional
+
 Detecta e permite remover:
 
 LibreOffice
+
 Firefox
+
 Thunderbird
+
 Hypnotix
+
 Celluloid
+
 Rhythmbox
+
 Pix
+
 Drawing
+
 Transmission
+
 Warpinator
+
 HexChat
+
 Matrix
+
 Nenhum software é removido sem confirmação.
 
 -------------------------------------------------------------------------------
@@ -43,11 +61,16 @@ Nenhum software é removido sem confirmação.
 Instala:
 
 Steam
+
 GameMode
+
 Também realiza:
 
+
 Verificação Vulkan
+
 Instalação de codecs multimídia
+
 Configuração automática de TRIM para SSD
 
 -------------------------------------------------------------------------------
@@ -75,16 +98,27 @@ Flathub
 Instala automaticamente:
 
 Discord
+
 Spotify
+
 OBS Studio
+
 ProtonUp-Qt
+
 Heroic Games Launcher
+
 Prism Launcher
+
 ZapZap
+
 Sober
+
 PPSSPP
+
 PCSX2
+
 RPCS3
+
 O script utiliza busca automática no Flathub para reduzir problemas causados por mudanças de IDs dos aplicativos.
 
 -------------------------------------------------------------------------------
@@ -92,8 +126,11 @@ O script utiliza busca automática no Flathub para reduzir problemas causados po
 ✅ Compatibilidade
 -
 Sistema	Suporte
+
 Linux Mint 22.x Cinnamon	✅
+
 Linux Mint 22.x MATE	✅
+
 Linux Mint 22.x XFCE	✅
 
 -------------------------------------------------------------------------------
@@ -101,19 +138,33 @@ Linux Mint 22.x XFCE	✅
 📦 Aplicativos     Instalados
 -
 Aplicativo	       Origem
+
 Steam	           APT
+
 GameMode	       APT
+
 Brave Browser	   APT
+
 Discord	           Flatpak
+
 Spotify	           Flatpak
+
 OBS Studio	       Flatpak
+
 ProtonUp-Qt	       Flatpak
+
 Heroic Launcher	   Flatpak
+
 Prism Launcher	   Flatpak
+
 ZapZap	           Flatpak
+
 Sober	           Flatpak
+
 PPSSPP	           Flatpak
+
 PCSX2	           Flatpak
+
 RPCS3	           Flatpak
 
 -------------------------------------------------------------------------------
@@ -141,12 +192,15 @@ RPCS3	           Flatpak
 Clone o repositório:
 
 git clone https://github.com/Carlin20033451/linux-mint-gamer-setup.git
+
 Entre na pasta:
 
 cd linux-mint-gamer-setup
+
 Dê permissão de execução:
 
 chmod +x mint-gamer-setup.sh
+
 Execute:
 
 ./mint-gamer-setup.sh
@@ -156,12 +210,15 @@ Execute:
 📸 Screenshots
 -
 Banner
+
 screenshots/banner.png
 
 Instalação
+
 screenshots/install.png
 
 Aplicativos
+
 screenshots/apps.png
 
 -------------------------------------------------------------------------------

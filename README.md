@@ -22,8 +22,9 @@ Uso diário
 🧹 Limpeza Opcional
 Detecta e permite remover:
 
-LibreOffice-
-Firefox-
+LibreOffice
+--
+Firefox
 Thunderbird
 Hypnotix
 Celluloid

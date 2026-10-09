@@ -1,6 +1,6 @@
 # linux-mint-gamer-setup
 
-screenshots/banner.png
+<img src = "screenshots/banner.png">
 
 
 Português 🇧🇷 - Automação pós-instalação do Linux Mint focada em jogos, emulação e uso diário.

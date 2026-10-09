@@ -105,10 +105,6 @@ Discord
 
 Spotify
 
-OBS Studio
-
-ProtonUp-Qt
-
 Heroic Games Launcher
 
 Prism Launcher
@@ -152,10 +148,6 @@ Brave Browser	-   APT
 Discord	       -    Flatpak
 
 Spotify	        -   Flatpak
-
-OBS Studio	     -  Flatpak
-
-ProtonUp-Qt	    -   Flatpak
 
 Heroic Launcher	-   Flatpak
 

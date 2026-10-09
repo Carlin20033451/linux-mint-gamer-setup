@@ -109,8 +109,6 @@ Heroic Games Launcher
 
 Prism Launcher
 
-com.obsproject.Studio
-
 ZapZap
 
 Sober
@@ -154,8 +152,6 @@ Spotify	        -   Flatpak
 Heroic Launcher	-   Flatpak
 
 Prism Launcher	 -  Flatpak
-
-com.obsproject.Studio - Flatpak
 
 ZapZap	         -  Flatpak
 

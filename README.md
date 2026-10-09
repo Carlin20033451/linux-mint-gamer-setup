@@ -23,7 +23,6 @@ Uso diário
 Detecta e permite remover:
 
 LibreOffice
---
 Firefox
 Thunderbird
 Hypnotix

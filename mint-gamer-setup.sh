@@ -228,7 +228,6 @@ FLATPAK_APPS=(
     "Spotify"
     "ZapZap"
     "PrismLauncher"
-    "com.obsproject.Studio"
     "Heroic"
     "Sober"
     "PPSSPP"
